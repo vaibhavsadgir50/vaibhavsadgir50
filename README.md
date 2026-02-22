@@ -33,10 +33,10 @@
 
 ### 🚀 Current Focus
 
+- 🤝 I'm looking for help with **full-time opportunities + deepening my expertise in large-scale system design**
 - 🔭 I'm currently working on **a full-stack MERN application focused on scalable APIs and modern web architecture**
 - 🌱 I'm currently learning **GraphQL, TypeScript, and advanced system design for distributed applications**
 - 👯 I'm looking to collaborate on **open-source projects involving AI, backend infrastructure, or developer platforms**
-- 🤝 I'm looking for help with **full-time opportunities + deepening my expertise in large-scale system design**
 - 💬 Ask me about **React, Node.js, APIs, full-stack development, and end-to-end applications**
 - ⚡ Fun fact: **I enjoy turning complex ideas into real, working systems — and yes, I do think I’m funny**
 
