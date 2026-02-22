@@ -196,11 +196,11 @@ Protocol + simulator to coordinate multi-agent computations (commit/reveal + del
 
 <td width="480">
 
-### 🔷 Hardware / Systems Projects
-Worked on CPU and system-level projects (e.g., hardware-accelerated CPU work and research-driven engineering).
+### 📈 AI Trading Bot (Deep Learning Research)
+LSTM-based financial time-series prediction system built in Google Colab to explore AI-driven trading signals.
 
-- Low-level performance + architecture focus
-- Systems thinking applied to real products
+- 🔗 Run Live Notebook: [LINK](https://colab.research.google.com/github/vaibhavsadgir50/AI_Trading_BOT/blob/main/AI_Trading_BOT.ipynb)
+
 
 </td>
 </tr>
